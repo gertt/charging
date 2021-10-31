@@ -1,0 +1,1340 @@
+2021-10-30 16:07:48,004  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5006 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:07:53,037  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3272 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:07:53,039 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:07:53,041  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:07:53,149  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:07:53,150  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:07:54,110  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:07:54,179  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1028 ms
+2021-10-30 16:07:54,561  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:07:54,610  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:07:54,627  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.162 seconds (JVM running for 27.853)
+2021-10-30 16:07:55,228  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:07:55,233  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 16:25:33,459  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5008 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:25:38,477  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3272 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:25:38,479 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:25:38,480  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:25:38,876  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:25:38,894  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 382 ms
+2021-10-30 16:25:39,041  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:25:39,058  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:25:39,066  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 20.746 seconds (JVM running for 1092.272)
+2021-10-30 16:25:39,076  INFO restartedMain EvaluationDeltaLoggingListener:63 ||||Condition evaluation unchanged
+2021-10-30 16:25:55,839  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5005 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:26:00,847  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3272 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:26:00,850 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:26:00,851  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:26:01,172  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:26:01,196  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 319 ms
+2021-10-30 16:26:01,364  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:26:01,375  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:26:01,380  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 20.717 seconds (JVM running for 1114.587)
+2021-10-30 16:26:01,381  INFO restartedMain EvaluationDeltaLoggingListener:63 ||||Condition evaluation unchanged
+2021-10-30 16:30:18,251  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:30:23,283  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3585 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:30:23,284 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:30:23,285  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:30:23,380  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:30:23,381  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:30:24,272  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:30:24,331  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 950 ms
+2021-10-30 16:30:24,702  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:30:24,764  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:30:24,796  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.111 seconds (JVM running for 27.897)
+2021-10-30 16:30:28,010  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:30:28,015  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 16:34:32,243  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5008 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:34:37,266  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3632 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:34:37,279 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:34:37,280  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:34:37,386  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:34:37,387  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:34:38,288  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:34:38,367  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 979 ms
+2021-10-30 16:34:38,841  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:34:38,873  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:34:38,886  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.194 seconds (JVM running for 27.869)
+2021-10-30 16:34:39,134  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:34:39,140  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 16:37:43,017  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:37:48,044  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3664 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:37:48,055 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:37:48,057  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:37:48,153  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:37:48,154  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:37:49,097  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:37:49,158  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1004 ms
+2021-10-30 16:37:49,540  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:37:49,602  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:37:49,633  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.191 seconds (JVM running for 27.914)
+2021-10-30 16:38:21,370  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:38:21,375  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 16:41:45,353  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:41:50,383  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3717 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:41:50,386 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:41:50,387  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:41:50,493  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:41:50,494  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:41:51,382  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:41:51,448  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 954 ms
+2021-10-30 16:41:51,847  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:41:51,880  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:41:51,902  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.139 seconds (JVM running for 27.854)
+2021-10-30 16:42:00,602  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:42:00,607  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 16:45:05,965  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:45:10,989  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3754 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:45:11,002 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:45:11,003  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:45:11,114  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:45:11,115  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:45:12,043  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:45:12,116  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1001 ms
+2021-10-30 16:45:12,511  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:45:12,582  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:45:12,606  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.189 seconds (JVM running for 27.892)
+2021-10-30 16:45:13,158  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:45:13,165  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 3 ms
+2021-10-30 16:46:19,120  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5003 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:46:24,146  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3780 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:46:24,149 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:46:24,151  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:46:24,254  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:46:24,255  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:46:25,168  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:46:25,223  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 967 ms
+2021-10-30 16:46:25,579  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:46:25,633  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:46:25,660  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.073 seconds (JVM running for 27.794)
+2021-10-30 16:46:26,269  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:46:26,274  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 16:49:19,095  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:49:24,124  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3794 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:49:24,126 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:49:24,127  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:49:24,232  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:49:24,233  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:49:25,092  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:49:25,160  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 927 ms
+2021-10-30 16:49:25,562  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:49:25,597  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:49:25,618  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.117 seconds (JVM running for 27.839)
+2021-10-30 16:53:06,676  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5008 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 16:53:11,706  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3832 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 16:53:11,708 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 16:53:11,708  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 16:53:11,811  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 16:53:11,811  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 16:53:12,646  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 16:53:12,694  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 882 ms
+2021-10-30 16:53:13,106  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 16:53:13,136  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 16:53:13,156  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 22.034 seconds (JVM running for 27.693)
+2021-10-30 16:53:32,566  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 16:53:32,571  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 17:04:47,130  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 17:04:52,147  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3948 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 17:04:52,148 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 17:04:52,149  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 17:04:52,249  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 17:04:52,250  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 17:04:53,021  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 17:04:53,041  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 13 ms. Found 0 JPA repository interfaces.
+2021-10-30 17:04:53,643  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 17:04:53,760  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1509 ms
+2021-10-30 17:04:53,937  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:AZ'
+2021-10-30 17:04:54,729  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 17:04:54,822  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 17:04:55,180  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 17:04:55,230  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 17:04:55,247  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.685 seconds (JVM running for 29.545)
+2021-10-30 17:04:55,306  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 17:04:55,308  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 1 ms
+2021-10-30 17:07:22,120  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 17:07:22,357  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 17:07:46,904  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5008 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 17:07:51,932  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3983 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 17:07:51,934 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 17:07:51,936  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 17:07:52,048  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 17:07:52,048  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 17:07:52,678  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 17:07:52,695  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 11 ms. Found 0 JPA repository interfaces.
+2021-10-30 17:07:53,257  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 17:07:53,332  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1283 ms
+2021-10-30 17:07:53,515  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 17:07:54,190  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 17:07:54,274  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 17:07:54,563  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 17:07:54,601  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 17:07:54,612  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.243 seconds (JVM running for 29.03)
+2021-10-30 20:45:29,692  INFO Thread-53 tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 20:45:29,932  WARN Thread-53 .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 20:45:45,324  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 20:45:50,344  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 3983 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 20:45:50,345 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 20:45:50,346  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 20:45:50,690  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 20:45:50,698  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2021-10-30 20:45:50,857  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 20:45:50,876  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 493 ms
+2021-10-30 20:45:50,929  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 20:45:51,028  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 20:45:51,077  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 20:45:51,242  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 20:45:51,258  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 20:45:51,269  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 21.135 seconds (JVM running for 1096.738)
+2021-10-30 20:45:51,279  INFO restartedMain EvaluationDeltaLoggingListener:63 ||||Condition evaluation unchanged
+2021-10-30 20:49:02,017  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 20:49:02,045 ERROR HikariPool-2 connection adder c.z.h.p.HikariPool  :498 ||||HikariPool-2 - Error thrown while acquiring connection from data source
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: The database is open in exclusive mode; can not open additional connections [90135-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:622)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.engine.Session.checkSuspended(Session.java:1369)
+	at org.h2.engine.Session.transitionToState(Session.java:1361)
+	at org.h2.engine.Session.waitIfExclusiveModeEnabled(Session.java:1633)
+	at org.h2.command.Command.executeQuery(Command.java:186)
+	at org.h2.jdbc.JdbcConnection.isReadOnly(JdbcConnection.java:631)
+	at com.zaxxer.hikari.pool.PoolBase.setupConnection(PoolBase.java:408)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.access$100(HikariPool.java:71)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:726)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:712)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 20:49:02,239  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 20:49:33,432  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5006 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 20:49:38,452  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4173 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 20:49:38,454 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 20:49:38,455  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 20:49:38,566  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 20:49:38,567  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 20:49:39,393  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 20:49:39,470  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 65 ms. Found 1 JPA repository interfaces.
+2021-10-30 20:49:40,086  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 20:49:40,164  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1597 ms
+2021-10-30 20:49:40,459  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 20:49:41,194  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 20:49:41,261  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 20:49:41,950  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 20:49:42,013  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 20:49:42,026  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 24.133 seconds (JVM running for 29.876)
+2021-10-30 20:49:55,594  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 20:49:55,834  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 20:50:32,521  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 20:50:37,562  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4184 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 20:50:37,567 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 20:50:37,568  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 20:50:37,669  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 20:50:37,669  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 20:50:38,369  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 20:50:38,448  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 67 ms. Found 1 JPA repository interfaces.
+2021-10-30 20:50:39,044  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 20:50:39,146  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1476 ms
+2021-10-30 20:50:39,337  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 20:50:40,307  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 20:50:40,429  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 20:50:41,007  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 20:50:41,043  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 20:50:41,055  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 24.109 seconds (JVM running for 30.032)
+2021-10-30 20:51:17,022  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 20:51:17,028  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 5 ms
+2021-10-30 20:55:10,224  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 20:55:10,475  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 20:55:36,267  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5008 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 20:55:41,325  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4223 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 20:55:41,327 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 20:55:41,328  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 20:55:41,414  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 20:55:41,418  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 20:55:42,168  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 20:55:42,274  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 90 ms. Found 1 JPA repository interfaces.
+2021-10-30 20:55:42,874  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 20:55:42,952  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1533 ms
+2021-10-30 20:55:43,141  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 20:55:43,269  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi', 110001); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+2021-10-30 20:55:43,315  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 20:55:43,341 ERROR restartedMain o.s.b.SpringApplication:843 ||||Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi', 110001); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.hastobe.HasToBeApplication.main(HasToBeApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi', 110001); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:49)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:89)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 23 common frames omitted
+Caused by: org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.command.dml.Insert.prepare(Insert.java:319)
+	at org.h2.command.Parser.prepareCommand(Parser.java:744)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	... 33 common frames omitted
+2021-10-30 20:56:30,579  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 20:56:35,612  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4230 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 20:56:35,617 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 20:56:35,618  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 20:56:35,781  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 20:56:35,782  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 20:56:36,757  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 20:56:36,829  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 62 ms. Found 1 JPA repository interfaces.
+2021-10-30 20:56:37,449  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 20:56:37,528  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1745 ms
+2021-10-30 20:56:37,717  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 20:56:37,810  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi', 110001); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+2021-10-30 20:56:37,840  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 20:56:37,867 ERROR restartedMain o.s.b.SpringApplication:843 ||||Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi', 110001); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.hastobe.HasToBeApplication.main(HasToBeApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi', 110001); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:49)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:89)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 23 common frames omitted
+Caused by: org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi', 110001) [21002-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.command.dml.Insert.prepare(Insert.java:319)
+	at org.h2.command.Parser.prepareCommand(Parser.java:744)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	... 33 common frames omitted
+2021-10-30 20:58:36,487  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 20:58:41,518  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4240 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 20:58:41,520 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 20:58:41,521  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 20:58:41,671  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 20:58:41,672  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 20:58:42,494  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 20:58:42,568  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interfaces.
+2021-10-30 20:58:43,179  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 20:58:43,256  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1584 ms
+2021-10-30 20:58:43,477  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 20:58:43,577  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi') [21002-200]
+2021-10-30 20:58:43,607  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 20:58:43,632 ERROR restartedMain o.s.b.SpringApplication:843 ||||Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi') [21002-200]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.hastobe.HasToBeApplication.main(HasToBeApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #3 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES ('Delhi'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi') [21002-200]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:49)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:89)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 23 common frames omitted
+Caused by: org.h2.jdbc.JdbcSQLSyntaxErrorException: Column count does not match; SQL statement:
+INSERT INTO CITY VALUES ('Delhi') [21002-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.message.DbException.get(DbException.java:170)
+	at org.h2.command.dml.Insert.prepare(Insert.java:319)
+	at org.h2.command.Parser.prepareCommand(Parser.java:744)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	... 33 common frames omitted
+2021-10-30 21:00:31,033  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:00:36,064  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4272 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:00:36,066 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:00:36,067  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:00:36,179  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:00:36,180  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:00:36,838  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:00:36,894  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:00:37,489  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:00:37,552  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1371 ms
+2021-10-30 21:00:37,749  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:00:38,409  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:00:38,497  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:00:38,994  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:00:39,031  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:00:39,053  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.554 seconds (JVM running for 29.349)
+2021-10-30 21:01:17,384  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 21:01:17,389  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 21:02:31,513  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:02:31,753  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 21:03:04,783  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:03:09,814  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4287 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:03:09,816 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:03:09,817  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:03:09,916  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:03:09,916  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:03:10,574  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:03:10,651  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 67 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:03:11,236  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:03:11,314  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1397 ms
+2021-10-30 21:03:11,495  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:03:12,127  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:03:12,198  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:03:12,751  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:03:12,814  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:03:12,825  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.61 seconds (JVM running for 29.458)
+2021-10-30 21:03:19,673  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 21:03:19,677  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 3 ms
+2021-10-30 21:05:40,989  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:06:13,248  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:06:18,270  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4332 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:06:18,271 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:06:18,272  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:06:18,376  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:06:18,377  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:06:19,166  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:06:19,239  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 65 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:06:19,877  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:06:19,981  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1604 ms
+2021-10-30 21:06:20,166  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:06:20,259  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES (1,'Delhi'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY VALUES (1,'Delhi') [42102-200]
+2021-10-30 21:06:20,307  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 21:06:20,344 ERROR restartedMain o.s.b.SpringApplication:843 ||||Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES (1,'Delhi'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY VALUES (1,'Delhi') [42102-200]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.hastobe.HasToBeApplication.main(HasToBeApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY VALUES (1,'Delhi'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY VALUES (1,'Delhi') [42102-200]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:49)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:89)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 23 common frames omitted
+Caused by: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY VALUES (1,'Delhi') [42102-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7628)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7599)
+	at org.h2.command.Parser.parseInsert(Parser.java:1747)
+	at org.h2.command.Parser.parsePrepared(Parser.java:954)
+	at org.h2.command.Parser.parse(Parser.java:843)
+	at org.h2.command.Parser.parse(Parser.java:815)
+	at org.h2.command.Parser.prepareCommand(Parser.java:738)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	... 33 common frames omitted
+2021-10-30 21:23:14,632  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:23:19,662  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4411 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:23:19,666 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:23:19,667  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:23:19,756  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:23:19,757  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:23:20,444  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:23:20,503  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 53 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:23:21,096  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:23:21,167  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1409 ms
+2021-10-30 21:23:21,406  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:23:21,521  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: insert into book values(1, 'The Tartar Steppe'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+2021-10-30 21:23:21,563  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 21:23:21,592 ERROR restartedMain o.s.b.SpringApplication:843 ||||Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: insert into book values(1, 'The Tartar Steppe'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.hastobe.HasToBeApplication.main(HasToBeApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: insert into book values(1, 'The Tartar Steppe'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:49)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:89)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 23 common frames omitted
+Caused by: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7628)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7599)
+	at org.h2.command.Parser.parseInsert(Parser.java:1747)
+	at org.h2.command.Parser.parsePrepared(Parser.java:954)
+	at org.h2.command.Parser.parse(Parser.java:843)
+	at org.h2.command.Parser.parse(Parser.java:815)
+	at org.h2.command.Parser.prepareCommand(Parser.java:738)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	... 33 common frames omitted
+2021-10-30 21:24:52,475  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5008 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:24:57,524  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4418 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:24:57,529 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:24:57,530  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:24:57,629  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:24:57,630  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:24:58,297  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:24:58,374  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 66 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:24:58,979  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:24:59,058  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1428 ms
+2021-10-30 21:24:59,250  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:24:59,337  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: insert into book values(1, 'The Tartar Steppe'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+2021-10-30 21:24:59,372  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 21:24:59,395 ERROR restartedMain o.s.b.SpringApplication:843 ||||Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: insert into book values(1, 'The Tartar Steppe'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.hastobe.HasToBeApplication.main(HasToBeApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: insert into book values(1, 'The Tartar Steppe'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:49)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:89)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 23 common frames omitted
+Caused by: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOOK" not found; SQL statement:
+insert into book values(1, 'The Tartar Steppe') [42102-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7628)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7599)
+	at org.h2.command.Parser.parseInsert(Parser.java:1747)
+	at org.h2.command.Parser.parsePrepared(Parser.java:954)
+	at org.h2.command.Parser.parse(Parser.java:843)
+	at org.h2.command.Parser.parse(Parser.java:815)
+	at org.h2.command.Parser.prepareCommand(Parser.java:738)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	... 33 common frames omitted
+2021-10-30 21:27:47,083  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:27:52,125  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4456 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:27:52,128 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:27:52,129  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:27:52,238  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:27:52,239  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:27:52,931  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:27:53,008  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 66 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:27:53,608  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:27:53,691  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1452 ms
+2021-10-30 21:27:53,869  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:27:54,516  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:27:54,588  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:27:55,096  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:27:55,132  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:27:55,160  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.624 seconds (JVM running for 29.448)
+2021-10-30 21:28:43,604  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 21:28:43,609  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 21:31:29,356  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:31:29,604  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 21:32:58,499  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5005 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:33:03,539  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4526 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:33:03,542 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:33:03,545  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:33:03,660  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:33:03,660  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:33:04,486  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:33:04,560  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:33:05,153  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:33:05,236  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1575 ms
+2021-10-30 21:33:05,418  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:33:06,088  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:33:06,162  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:33:06,723  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:33:06,779  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:33:06,794  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.898 seconds (JVM running for 29.759)
+2021-10-30 21:33:12,371  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 21:33:12,377  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 5 ms
+2021-10-30 21:36:47,682  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:36:47,939  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 21:37:14,598  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5010 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:37:19,647  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4582 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:37:19,649 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:37:19,651  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:37:19,768  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:37:19,769  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:37:20,455  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:37:20,534  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 67 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:37:21,129  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:37:21,210  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1441 ms
+2021-10-30 21:37:21,391  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:37:21,489  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY (city_name) VALUES ('my_test'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY (city_name) VALUES ('my_test') [42102-200]
+2021-10-30 21:37:21,547  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 21:37:21,568 ERROR restartedMain o.s.b.SpringApplication:843 ||||Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Invocation of init method failed; nested exception is org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY (city_name) VALUES ('my_test'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY (city_name) VALUES ('my_test') [42102-200]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.example.hastobe.HasToBeApplication.main(HasToBeApplication.java:10)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.jdbc.datasource.init.ScriptStatementFailedException: Failed to execute SQL script statement #1 of URL [file:/Users/gertiprifti/Desktop/charging-process/target/classes/data.sql]: INSERT INTO CITY (city_name) VALUES ('my_test'); nested exception is org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY (city_name) VALUES ('my_test') [42102-200]
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:282)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:49)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:89)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	... 23 common frames omitted
+Caused by: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+INSERT INTO CITY (city_name) VALUES ('my_test') [42102-200]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:453)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:429)
+	at org.h2.message.DbException.get(DbException.java:205)
+	at org.h2.message.DbException.get(DbException.java:181)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7628)
+	at org.h2.command.Parser.readTableOrView(Parser.java:7599)
+	at org.h2.command.Parser.parseInsert(Parser.java:1747)
+	at org.h2.command.Parser.parsePrepared(Parser.java:954)
+	at org.h2.command.Parser.parse(Parser.java:843)
+	at org.h2.command.Parser.parse(Parser.java:815)
+	at org.h2.command.Parser.prepareCommand(Parser.java:738)
+	at org.h2.engine.Session.prepareLocal(Session.java:657)
+	at org.h2.engine.Session.prepareCommand(Session.java:595)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1235)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:212)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:201)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	... 33 common frames omitted
+2021-10-30 21:38:17,906  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:38:22,938  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4591 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:38:22,941 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:38:22,943  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:38:23,117  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:38:23,118  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:38:24,466  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:38:24,636  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 161 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:38:25,584  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:38:25,672  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 2554 ms
+2021-10-30 21:38:25,871  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:38:26,485  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:38:26,568  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:38:27,125  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:38:27,201  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:38:27,217  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 24.878 seconds (JVM running for 30.601)
+2021-10-30 21:42:58,857  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:42:59,123  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 21:43:27,915  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5005 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:43:32,948  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4644 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:43:32,952 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:43:32,953  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:43:33,052  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:43:33,052  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:43:33,688  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:43:33,742  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:43:34,361  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:43:34,437  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1383 ms
+2021-10-30 21:43:34,625  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:43:35,283  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:43:35,594  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:43:35,875  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:43:35,913  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:43:35,926  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.583 seconds (JVM running for 29.321)
+2021-10-30 21:44:28,592  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 21:44:28,597  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 21:45:06,716  WARN http-nio-8484-exec-4 eptionHandlerExceptionResolver:207 ||||Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'cityName' for method parameter type String is not present]
+2021-10-30 21:45:38,073  WARN http-nio-8484-exec-9 eptionHandlerExceptionResolver:207 ||||Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'cityName' for method parameter type String is not present]
+2021-10-30 21:46:17,677  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:46:17,929  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 21:46:59,842  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5008 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:47:04,885  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4684 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:47:04,889 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:47:04,890  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:47:04,995  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:47:04,996  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:47:05,704  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:47:05,799  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 87 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:47:06,388  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:47:06,476  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1480 ms
+2021-10-30 21:47:06,683  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:47:07,342  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:47:07,630  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:47:07,881  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:47:07,917  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:47:07,935  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.629 seconds (JVM running for 30.048)
+2021-10-30 21:47:08,499  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 21:47:08,505  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 5 ms
+2021-10-30 21:48:14,188  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:48:14,427  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 21:48:42,377  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5007 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 21:48:47,400  INFO restartedMain c.e.h.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 4705 (/Users/gertiprifti/Desktop/charging-process/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process)
+2021-10-30 21:48:47,401 DEBUG restartedMain c.e.h.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 21:48:47,402  INFO restartedMain c.e.h.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 21:48:47,499  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 21:48:47,500  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 21:48:48,159  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 21:48:48,225  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 57 ms. Found 1 JPA repository interfaces.
+2021-10-30 21:48:48,871  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 21:48:48,978  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1478 ms
+2021-10-30 21:48:49,201  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 21:48:49,947  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 21:48:50,239  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 21:48:50,514  INFO restartedMain b.d.a.OptionalLiveReloadServer:58 ||||LiveReload server is running on port 35729
+2021-10-30 21:48:50,559  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 21:48:50,575  INFO restartedMain c.e.h.HasToBeApplication:61 ||||Started HasToBeApplication in 23.704 seconds (JVM running for 29.438)
+2021-10-30 21:49:02,069  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 21:49:02,075  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 5 ms
+2021-10-30 22:28:27,749  INFO Thread-54 tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 22:28:28,003  WARN Thread-54 .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 22:38:47,247  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5004 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 22:38:52,281  INFO restartedMain c.e.c.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 5145 (/Users/gertiprifti/Desktop/charging-process/charging/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process/charging)
+2021-10-30 22:38:52,283 DEBUG restartedMain c.e.c.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 22:38:52,284  INFO restartedMain c.e.c.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 22:38:52,391  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 22:38:52,391  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 22:38:53,074  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 22:38:53,132  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 51 ms. Found 1 JPA repository interfaces.
+2021-10-30 22:38:53,788  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 22:38:53,861  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1468 ms
+2021-10-30 22:38:54,052  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 22:38:54,700  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 22:38:55,007  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 22:38:55,271  WARN restartedMain b.d.a.OptionalLiveReloadServer:61 ||||Unable to start LiveReload server
+2021-10-30 22:38:55,311  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 22:38:55,327  INFO restartedMain c.e.c.HasToBeApplication:61 ||||Started HasToBeApplication in 23.588 seconds (JVM running for 29.409)
+2021-10-30 22:38:55,475  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 22:38:55,480  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 4 ms
+2021-10-30 22:44:57,469  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 22:44:57,764  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 23:10:20,272  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5003 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 23:10:25,294  INFO restartedMain c.e.c.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 5426 (/Users/gertiprifti/Desktop/charging-process/charging/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process/charging)
+2021-10-30 23:10:25,296 DEBUG restartedMain c.e.c.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 23:10:25,297  INFO restartedMain c.e.c.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 23:10:25,403  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 23:10:25,404  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 23:10:26,186  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 23:10:26,258  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 66 ms. Found 1 JPA repository interfaces.
+2021-10-30 23:10:26,485  INFO restartedMain o.s.c.c.s.GenericScope:288 ||||BeanFactory id=c26d0426-fdb8-335c-9087-298012235d97
+2021-10-30 23:10:27,113  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 23:10:27,189  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1784 ms
+2021-10-30 23:10:27,311  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 23:10:28,061  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:10:28,397  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 23:10:28,687  WARN restartedMain b.d.a.OptionalLiveReloadServer:61 ||||Unable to start LiveReload server
+2021-10-30 23:10:28,754  INFO restartedMain lientOptionalArgsConfiguration:68 ||||Eureka HTTP Client uses RestTemplate.
+2021-10-30 23:10:28,872  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2021-10-30 23:10:28,877  INFO restartedMain tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:10:29,104  WARN restartedMain .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 23:10:29,188  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 23:10:29,212 ERROR restartedMain LoggingFailureAnalysisReporter:40 ||||
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.5.4] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.3.x, 2.4.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2021-10-30 23:11:49,158  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5010 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 23:11:54,180  INFO restartedMain c.e.c.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 5432 (/Users/gertiprifti/Desktop/charging-process/charging/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process/charging)
+2021-10-30 23:11:54,181 DEBUG restartedMain c.e.c.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 23:11:54,183  INFO restartedMain c.e.c.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 23:11:54,291  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 23:11:54,292  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 23:11:55,120  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 23:11:55,193  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 66 ms. Found 1 JPA repository interfaces.
+2021-10-30 23:11:55,441  INFO restartedMain o.s.c.c.s.GenericScope:288 ||||BeanFactory id=c26d0426-fdb8-335c-9087-298012235d97
+2021-10-30 23:11:56,082  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 23:11:56,162  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1869 ms
+2021-10-30 23:11:56,287  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 23:11:57,167  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:11:57,484  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 23:11:57,798  WARN restartedMain b.d.a.OptionalLiveReloadServer:61 ||||Unable to start LiveReload server
+2021-10-30 23:11:57,863  INFO restartedMain lientOptionalArgsConfiguration:68 ||||Eureka HTTP Client uses RestTemplate.
+2021-10-30 23:11:57,999  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2021-10-30 23:11:58,003  INFO restartedMain tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:11:58,243  WARN restartedMain .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 23:11:58,454  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 23:11:58,481 ERROR restartedMain LoggingFailureAnalysisReporter:40 ||||
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.5.4] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.3.x, 2.4.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2021-10-30 23:13:24,731  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5006 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 23:13:29,759  INFO restartedMain c.e.c.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 5445 (/Users/gertiprifti/Desktop/charging-process/charging/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process/charging)
+2021-10-30 23:13:29,761 DEBUG restartedMain c.e.c.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 23:13:29,762  INFO restartedMain c.e.c.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 23:13:29,870  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 23:13:29,871  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 23:13:30,675  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 23:13:30,754  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 69 ms. Found 1 JPA repository interfaces.
+2021-10-30 23:13:31,000  INFO restartedMain o.s.c.c.s.GenericScope:288 ||||BeanFactory id=c26d0426-fdb8-335c-9087-298012235d97
+2021-10-30 23:13:31,802  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 23:13:31,885  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 2013 ms
+2021-10-30 23:13:32,012  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 23:13:32,929  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:13:33,255  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 23:13:33,591  WARN restartedMain b.d.a.OptionalLiveReloadServer:61 ||||Unable to start LiveReload server
+2021-10-30 23:13:33,659  INFO restartedMain lientOptionalArgsConfiguration:68 ||||Eureka HTTP Client uses RestTemplate.
+2021-10-30 23:13:33,831  WARN restartedMain letWebServerApplicationContext:591 ||||Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'compositeCompatibilityVerifier' defined in class path resource [org/springframework/cloud/configuration/CompatibilityVerifierAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cloud.configuration.CompositeCompatibilityVerifier]: Factory method 'compositeCompatibilityVerifier' threw exception; nested exception is org.springframework.cloud.configuration.CompatibilityNotMetException
+2021-10-30 23:13:33,837  INFO restartedMain tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:13:34,242  WARN restartedMain .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 23:13:34,353  INFO restartedMain valuationReportLoggingListener:136 ||||
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-30 23:13:34,378 ERROR restartedMain LoggingFailureAnalysisReporter:40 ||||
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Your project setup is incompatible with our requirements due to following reasons:
+
+- Spring Boot [2.5.4] is not compatible with this Spring Cloud release train
+
+
+Action:
+
+Consider applying the following actions:
+
+- Change Spring Boot version to one of the following versions [2.3.x, 2.4.x] .
+You can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. 
+If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section.
+If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]
+
+
+2021-10-30 23:17:04,630  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 23:17:09,647  INFO restartedMain c.e.c.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 5502 (/Users/gertiprifti/Desktop/charging-process/charging/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process/charging)
+2021-10-30 23:17:09,650 DEBUG restartedMain c.e.c.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 23:17:09,651  INFO restartedMain c.e.c.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 23:17:09,751  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 23:17:09,752  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 23:17:10,522  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 23:17:10,588  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 60 ms. Found 1 JPA repository interfaces.
+2021-10-30 23:17:10,834  INFO restartedMain o.s.c.c.s.GenericScope:283 ||||BeanFactory id=74bc96eb-21f9-3177-b418-5e233a9419e8
+2021-10-30 23:17:11,583  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 23:17:11,655  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1902 ms
+2021-10-30 23:17:11,771  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 23:17:12,487  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:17:12,798  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 23:17:13,080  WARN restartedMain b.d.a.OptionalLiveReloadServer:61 ||||Unable to start LiveReload server
+2021-10-30 23:17:13,145  INFO restartedMain lientOptionalArgsConfiguration:68 ||||Eureka HTTP Client uses RestTemplate.
+2021-10-30 23:17:13,282  WARN restartedMain LoadBalancerCaffeineWarnLogger:82 ||||Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-10-30 23:17:13,356  INFO restartedMain o.s.c.n.e.InstanceInfoFactory:67 ||||Setting initial instance status as: STARTING
+2021-10-30 23:17:13,853  INFO restartedMain .c.n.e.s.EurekaServiceRegistry:41 ||||Registering application CHARGIN-PROCESS with eureka with status UP
+2021-10-30 23:17:13,883  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 23:17:13,885  INFO restartedMain .EurekaAutoServiceRegistration:144 ||||Updating port to 8484
+2021-10-30 23:17:13,905  INFO restartedMain c.e.c.HasToBeApplication:61 ||||Started HasToBeApplication in 24.877 seconds (JVM running for 30.751)
+2021-10-30 23:17:44,024 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/192.168.1.6:chargin-process:8484 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:17:45,479  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 23:17:45,486  INFO http-nio-8484-exec-2 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 5 ms
+2021-10-30 23:18:14,085 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/192.168.1.6:chargin-process:8484 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:18:44,123 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/192.168.1.6:chargin-process:8484 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:19:14,140 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/192.168.1.6:chargin-process:8484 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:23:47,559  INFO SpringApplicationShutdownHook .c.n.e.s.EurekaServiceRegistry:62 ||||Unregistering application CHARGIN-PROCESS with eureka with status DOWN
+2021-10-30 23:23:47,650  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:23:47,902  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 23:23:50,962 ERROR SpringApplicationShutdownHook c.n.d.DiscoveryClient:975 ||||DiscoveryClient_CHARGIN-PROCESS/192.168.1.6:chargin-process:8484 - de-registration failedCannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:972)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:948)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:389)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:347)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:177)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:177)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:390)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:131)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:100)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:24:16,553  WARN restartedMain o.s.b.StartupInfoLogger:117 ||||InetAddress.getLocalHost().getHostName() took 5009 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2021-10-30 23:24:21,577  INFO restartedMain c.e.c.HasToBeApplication:55 ||||Starting HasToBeApplication using Java 1.8.0_292 on Gertis-MacBook-Pro.local with PID 5548 (/Users/gertiprifti/Desktop/charging-process/charging/target/classes started by gertiprifti in /Users/gertiprifti/Desktop/charging-process/charging)
+2021-10-30 23:24:21,580 DEBUG restartedMain c.e.c.HasToBeApplication:56 ||||Running with Spring Boot v2.5.4, Spring v5.3.9
+2021-10-30 23:24:21,581  INFO restartedMain c.e.c.HasToBeApplication:659 ||||No active profile set, falling back to default profiles: default
+2021-10-30 23:24:21,687  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-30 23:24:21,688  INFO restartedMain sPropertyDefaultsPostProcessor:255 ||||For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-30 23:24:22,458  INFO restartedMain epositoryConfigurationDelegate:132 ||||Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-10-30 23:24:22,524  INFO restartedMain epositoryConfigurationDelegate:201 ||||Finished Spring Data repository scanning in 61 ms. Found 1 JPA repository interfaces.
+2021-10-30 23:24:22,751  INFO restartedMain o.s.c.c.s.GenericScope:283 ||||BeanFactory id=74bc96eb-21f9-3177-b418-5e233a9419e8
+2021-10-30 23:24:23,434  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:108 ||||Tomcat initialized with port(s): 8484 (http)
+2021-10-30 23:24:23,505  INFO restartedMain letWebServerApplicationContext:290 ||||Root WebApplicationContext: initialization completed in 1816 ms
+2021-10-30 23:24:23,634  INFO restartedMain a.h.H2ConsoleAutoConfiguration:68 ||||H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-10-30 23:24:24,344  INFO restartedMain tainerEntityManagerFactoryBean:437 ||||Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:24:24,641  WARN restartedMain figuration$JpaWebConfiguration:219 ||||spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-30 23:24:24,925  WARN restartedMain b.d.a.OptionalLiveReloadServer:61 ||||Unable to start LiveReload server
+2021-10-30 23:24:24,987  INFO restartedMain lientOptionalArgsConfiguration:68 ||||Eureka HTTP Client uses RestTemplate.
+2021-10-30 23:24:25,108  WARN restartedMain LoadBalancerCaffeineWarnLogger:82 ||||Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2021-10-30 23:24:25,179  INFO restartedMain o.s.c.n.e.InstanceInfoFactory:67 ||||Setting initial instance status as: STARTING
+2021-10-30 23:24:25,667  INFO restartedMain .c.n.e.s.EurekaServiceRegistry:41 ||||Registering application CHARGIN-PROCESS with eureka with status UP
+2021-10-30 23:24:25,697  INFO restartedMain o.s.b.w.e.t.TomcatWebServer:220 ||||Tomcat started on port(s): 8484 (http) with context path ''
+2021-10-30 23:24:25,699  INFO restartedMain .EurekaAutoServiceRegistration:144 ||||Updating port to 8484
+2021-10-30 23:24:25,722  INFO restartedMain c.e.c.HasToBeApplication:61 ||||Started HasToBeApplication in 24.787 seconds (JVM running for 30.613)
+2021-10-30 23:24:55,821 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/chargin-process:6887a3ec-d931-47f4-a574-518f49061e20 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:25:25,866 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/chargin-process:6887a3ec-d931-47f4-a574-518f49061e20 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:25:55,910 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/chargin-process:6887a3ec-d931-47f4-a574-518f49061e20 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:26:25,950 ERROR DiscoveryClient-HeartbeatExecutor-0 c.n.d.DiscoveryClient:907 ||||DiscoveryClient_CHARGIN-PROCESS/chargin-process:6887a3ec-d931-47f4-a574-518f49061e20 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:893)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1457)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-30 23:28:13,446  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:525 ||||Initializing Servlet 'dispatcherServlet'
+2021-10-30 23:28:13,456  INFO http-nio-8484-exec-1 o.s.w.s.DispatcherServlet:547 ||||Completed initialization in 9 ms
+2021-10-30 23:59:15,812  INFO SpringApplicationShutdownHook .c.n.e.s.EurekaServiceRegistry:62 ||||Unregistering application CHARGIN-PROCESS with eureka with status DOWN
+2021-10-30 23:59:15,901  INFO SpringApplicationShutdownHook tainerEntityManagerFactoryBean:651 ||||Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-10-30 23:59:16,148  WARN SpringApplicationShutdownHook .s.b.f.s.DisposableBeanAdapter:209 ||||Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2021-10-30 23:59:19,238 ERROR SpringApplicationShutdownHook c.n.d.DiscoveryClient:975 ||||DiscoveryClient_CHARGIN-PROCESS/chargin-process:6887a3ec-d931-47f4-a574-518f49061e20 - de-registration failedCannot execute request on any known server
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$2.execute(EurekaHttpClientDecorator.java:74)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.cancel(EurekaHttpClientDecorator.java:71)
+	at com.netflix.discovery.DiscoveryClient.unregister(DiscoveryClient.java:972)
+	at com.netflix.discovery.DiscoveryClient.shutdown(DiscoveryClient.java:948)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:389)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeDestroyMethods(InitDestroyAnnotationBeanPostProcessor.java:347)
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeDestruction(InitDestroyAnnotationBeanPostProcessor.java:177)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:184)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.run(DisposableBeanAdapter.java:177)
+	at org.springframework.cloud.context.scope.GenericScope$BeanLifecycleWrapper.destroy(GenericScope.java:390)
+	at org.springframework.cloud.context.scope.GenericScope.destroy(GenericScope.java:136)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:200)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:587)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:559)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1152)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:520)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1145)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1106)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1075)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:172)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1021)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:131)
+	at java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:100)
+	at java.lang.Thread.run(Thread.java:748)
